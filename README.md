@@ -29,6 +29,31 @@ A comprehensive command-line pet management system designed for multi-species ho
 - Pet activity overviews
 - Full dashboard with key metrics
 
+## My Learning Journey
+This is my capstone project for Boot.dev! 🚀
+
+### What I Learned:
+Building a complex CLI application with multiple modules
+JSON data persistence and file management
+Object-oriented programming with interconnected classes
+User experience design for command-line interfaces
+Project planning and feature prioritization
+
+### Technical Skills Demonstrated:
+Python programming
+File I/O operations
+Data structures and algorithms
+Error handling
+Code organization and modularity
+
+### Future Enhancements
+Web interface for easier mobile access
+Photo upload for pet timeline
+Integration with vet clinic APIs
+Automated reminders via notifications
+
+Built with ❤️  for Bailey, Munchkin, Gus, and Bunion
+
 ## How to Run
 
 ```bash
@@ -53,28 +78,3 @@ petcare_pro/
 ├── reports.py          # Analytics and reporting
 ├── data/               # JSON data storage
 └── README.md
-
-# My Learning Journey
-This is my capstone project for Boot.dev! 🚀
-
-# What I Learned:
-Building a complex CLI application with multiple modules
-JSON data persistence and file management
-Object-oriented programming with interconnected classes
-User experience design for command-line interfaces
-Project planning and feature prioritization
-
-# Technical Skills Demonstrated:
-Python programming
-File I/O operations
-Data structures and algorithms
-Error handling
-Code organization and modularity
-
-# Future Enhancements
-Web interface for easier mobile access
-Photo upload for pet timeline
-Integration with vet clinic APIs
-Automated reminders via notifications
-
-Built with ❤️  for Bailey, Munchkin, Gus, and Bunion
