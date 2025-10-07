@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (keep  your pet data safe)
+data/*.json
+
+# OS
+.DS_Store
+Thumbs.db
