@@ -1,6 +1,8 @@
 # PetCare Pro 🐾
 
-A comprehensive command-line pet management system designed for multi-species households. Built specifically for managing the care of Bailey (Caique), Munchkin (Hahn's Macaw), Gus (Amazon Parrot), and Bunion (European Rabbit).
+A robust command-line pet care manager for multi-species households that orchestrates daily routines, health tracking, and time-sensitive tasks. It centralizes species-specific care profiles, schedules recurring feedings and medications, and logs weight, notes, and vet visits with searchable history. Designed around a real household of three parrots and a rabbit, the tool generalizes to any pets with customizable profiles.
+
+Features include a fast, discoverable CLI with human-friendly commands and persistent storage via JSON.
 
 ## Features
 
@@ -32,21 +34,21 @@ A comprehensive command-line pet management system designed for multi-species ho
 ## My Learning Journey
 This is my capstone project for Boot.dev! 🚀
 
-## Motivation
+### Motivation
 Building a complex CLI application with multiple modules
 JSON data persistence and file management
 Object-oriented programming with interconnected classes
 User experience design for command-line interfaces
 Project planning and feature prioritization
 
-## Usage
+### Usage
 Python programming
 File I/O operations
 Data structures and algorithms
 Error handling
 Code organization and modularity
 
-## Contributing Future Enhancements
+### Contributing Future Enhancements
 Web interface for easier mobile access
 Photo upload for pet timeline
 Integration with vet clinic APIs
